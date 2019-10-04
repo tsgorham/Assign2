@@ -12,6 +12,10 @@ ADDRESS_1 = 'George Costanza'
 ADDRESS_2 = '1234 Fake St'
 ADDRESS_3 = 'Del Boca Vista, FL, 90210'
 
+ADDRESS_1 = 'George Costanza'
+ADDRESS_2 = '1234 Fake St'
+ADDRESS_3 = 'Del Boca Vista, FL, 90210'
+
 print(BORDER)
 print(STAMP)
 print(STAMP)
